@@ -56,6 +56,7 @@ aside {
     clear: both;
     width: 100%;
     background: #66bfbf;
+    overflow: auto;
 }
 h2 {
     width: 100%;
@@ -97,12 +98,6 @@ h3 {
 }
 #lower .description {
     width: 91.24%;
-}
-#clear {
-    clear: both;
-}
-#clear p {
-    display: none;
 }
 .last-p {
     padding-bottom: 30px;
