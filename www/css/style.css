@@ -1,0 +1,135 @@
+body {
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+    background: #e0ece4;
+}
+h1, h2, h3, p, ul {
+    margin: 0;
+}
+#wrapper {
+    width: 75%;
+    margin: 0 auto;
+    background: #e0ece4;
+}
+header {
+    border-bottom: 4px solid black;
+    height: 80px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+header ul {
+    list-style: none;
+    float: right;
+    position: relative;
+    top: 20px;
+}
+header li {
+    color: #ff4b5c;
+}
+header a {
+    text-decoration: none;
+    color: black;
+}
+h1 {
+    float: left;
+    font-size: 3em;
+    position: relative;
+    top: 10px;
+}
+#name {
+    color: #ff4b5c;
+}
+main {
+    background: #66bfbf;
+    width: 73%;
+    float: left;
+    margin-bottom: 20px;
+}
+aside {
+    width: 26%;
+    float: right;
+    box-sizing: border-box;
+    max-height: 651px;
+    overflow: auto;
+}
+#lower {
+    clear: both;
+    width: 100%;
+    background: #66bfbf;
+}
+h2 {
+    width: 100%;
+    border-bottom: 2px solid black;
+    padding-left: 15px;
+    box-sizing: border-box;
+}
+.h3-color {
+    color: #ff4b5c;
+    font-weight: bold;
+    padding-top: 20px;
+}
+.year {
+    float: left;
+    border-right: 2px solid black;
+    text-align: center;
+    padding: 42px 10px;
+    width: 10%;
+    clear: left;
+    box-sizing: border-box;
+}
+.description {
+    float: right;
+    width: 88%;
+    box-sizing: border-box;
+}
+footer {
+    clear: both;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: #ff4b5c;
+}
+h3 {
+    font-weight: 400;
+}
+#lower .year {
+    width: 7.3%;
+}
+#lower .description {
+    width: 91.24%;
+}
+#clear {
+    clear: both;
+}
+#clear p {
+    display: none;
+}
+.last-p {
+    padding-bottom: 30px;
+}
+.main-last-p {
+    padding-bottom: 49px;
+}
+aside section {
+    margin-bottom: 21.27px;
+    background: #66bfbf;
+}
+aside p, aside h3 {
+    padding-left: 15px;
+}
+aside section>p {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+#leadership-last-p, #education-last-h3, .last-bottom-p {
+    padding-bottom: 10px;
+}
+footer a {
+    color: black;
+}
+footer a:hover {
+    background: #66bfbf;
+}
+#leadership {
+    margin-bottom: 0;
+}
