@@ -21,10 +21,11 @@ header ul {
     list-style: none;
     float: right;
     position: relative;
-    top: 20px;
+    top: 8px;
 }
 header li {
     color: #ff4b5c;
+    padding-top: 5px;
 }
 header a {
     text-decoration: none;
